@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
+import './bootstrap.min.css'  
+// video importing before index CSS , not sure will the order affect me somehow
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
